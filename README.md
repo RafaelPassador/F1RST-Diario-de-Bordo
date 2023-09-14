@@ -46,3 +46,21 @@ O código que você irá elaborar para criar a tabela (ou dataframe spark/pandas
 deverá ser escrito em uma das seguintes linguagens: SQL ou Python
 (pyspark e/ou pandas). Caso decida por SQL, considere o nome da tabela
 como " info_transportes".
+
+***
+
+
+## Requisitos
+
+Para executar este projeto, você precisará ter as seguintes bibliotecas instaladas:
+
+- [pyspark](https://pypi.org/project/pyspark/)
+- [pandas](https://pypi.org/project/pandas/)
+
+## Instalação
+
+Você pode instalar as bibliotecas utilizando o pip. Abra o terminal ou prompt de comando e execute os seguintes comandos:
+
+```bash
+pip install pyspark
+pip install pandas
